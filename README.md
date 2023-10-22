@@ -42,4 +42,3 @@ Cashier Ui Interfaces
 <br><br>
 Customer Ui Interfaces
 ![Customer Dashboard](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/fbf61ae1-b50e-45b0-855c-ed6b2f6280f2)
-
