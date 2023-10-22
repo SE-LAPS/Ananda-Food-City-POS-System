@@ -3,42 +3,42 @@ Ananda Food City POS System Using PHP and MYSQL &amp; R Studio
 <br><br>
 Admin Ui Interfaces
 <br>
-![1](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/4efd7611-1ea3-4a6d-97f1-c29a1b0d498b)
+![1](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/ca5156db-fee1-4f4b-85a1-d5060a7574b3)
 <br>
-![2](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/7956a9fe-e321-4475-af76-15f37e28a6f8)
+![2](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/32809f78-4dc5-4148-a112-c0691a4412e7)
 <br>
-![Admin Dashboard](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/75a84529-a5ae-4acd-8356-070862eebded)
+![Admin Dashboard](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/47ca4f32-3a52-410b-8705-c463cf4cda98)
 <br>
-![4](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/392e83a6-46ef-464d-ad6e-7251cc2435ec)
+![4](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/c7b6b232-a4eb-4357-b5fb-668c9dce0175)
 <br>
-![5](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/28e64ed0-4907-41d9-b122-34166d54c848)
+![5](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/d6a74e7f-67b8-4511-9017-39ee52c38649)
 <br>
-![6](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/297f3665-fa16-4379-b050-c78c7b637b2f)
+![6](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/7ea80e98-f8ec-4ac5-8edb-28a8093045d1)
 <br>
-![7](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/5c136b83-4e5d-41ad-aa0a-dc9b5930016b)
+![7](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/bd3a0e1d-00dc-4d74-b7ce-573d4ea00956)
 <br>
-![8](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/0fac1b30-619a-4e89-b358-fc232081df64)
+![8](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/b7f56fda-e86c-457a-9767-5c5cdf4427bf)
 <br>
-![9](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/bcb9431c-6d97-4639-b80a-e85b6bd8c86c)
+![9](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/d26d5fdb-c38e-48b9-84e2-ea1273962813)
 <br>
-![10](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/a89b879c-1c41-4ecb-86de-a26738d00552)
+![10](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/9c389b2b-6dad-4ef7-9e05-94ffb0576866)
 <br>
-![11](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/3264a51b-e5a2-441d-ad00-50b0da80c07e)
+![11](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/a3b424c7-cf6d-4073-a666-c47e59a569a6)
 <br>
-![12](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/2f935f49-ac70-4551-9639-574fe81bb251)
+![12](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/f40b6f5d-962f-4358-8473-bb1b89f0615a)
 <br>
-![13](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/7aec0879-8b80-4ca2-8077-ada39e3fb75c)
+![13](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/a6a50a72-cab8-476b-a434-66f6145a3731)
 <br>
-![14](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/795cee6b-4042-4092-a632-3a7fb2431685)
+![14](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/0e07b606-c27b-4bba-98f3-f95ad3bcf01a)
 <br>
-![15](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/fda14347-d643-4ad1-b17d-0f499f199dab)
+![15](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/8dc454fd-a3f9-47f6-a040-1075e1a5fea7)
 <br>
-![16](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/947ddac8-6cdc-451a-81f0-10df7d2269da)
+![16](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/b17616c4-99e3-48c6-8cb8-b2e588e0ff2e)
 <br>
-![17](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/2cccce05-ad65-4663-b20a-7dbf0ea2e791)
+![17](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/caa58cc9-68e6-43ba-96dc-c5da7fdb3d44)
 <br><br>
 Cashier Ui Interfaces
-![Cashier Dashboard](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/63fbeaed-2267-4d0e-bd53-c117bc827e70)
+![Cashier Dashboard](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/c1e344bf-ee90-4723-85f3-c8e526727406)
 <br><br>
 Customer Ui Interfaces
-![Customer Dashboard](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/fbf61ae1-b50e-45b0-855c-ed6b2f6280f2)
+![Customer Dashboard](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/d5d40885-6caa-4e01-84ce-99379a064026)
