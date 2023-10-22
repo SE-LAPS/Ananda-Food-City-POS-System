@@ -1,6 +1,7 @@
 # Ananda-Food-City-POS-System
 Ananda Food City POS System Using PHP and MYSQL &amp; R Studio
-<h3>Admin Ui Interfaces</h3>
+<br><br>
+Admin Ui Interfaces
 <br>
 ![1](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/4efd7611-1ea3-4a6d-97f1-c29a1b0d498b)
 <br>
@@ -34,11 +35,11 @@ Ananda Food City POS System Using PHP and MYSQL &amp; R Studio
 <br>
 ![16](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/947ddac8-6cdc-451a-81f0-10df7d2269da)
 <br>
-<h3>Cashier Ui Interfaces</h3>
 ![17](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/2cccce05-ad65-4663-b20a-7dbf0ea2e791)
-<br>
-<h3>Customer Ui Interfaces</h3>
+<br><br>
+Cashier Ui Interfaces
 ![Cashier Dashboard](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/63fbeaed-2267-4d0e-bd53-c117bc827e70)
-<br>
+<br><br>
+Customer Ui Interfaces
 ![Customer Dashboard](https://github.com/SE-LAPS/Ananda-Food-City-POS-System/assets/87580847/fbf61ae1-b50e-45b0-855c-ed6b2f6280f2)
 
